@@ -6,12 +6,7 @@
   "success_url": "/",
 
 
-    },
-    "Mode": {
-      "description": "Set bot mode: public / private / groups / inbox",
-      "required": true
-    }
-  },
+    
 
   "buildpacks": [
     {
